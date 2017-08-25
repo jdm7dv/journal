@@ -7,7 +7,7 @@ The Journal features:
 
 - Twitter Archive
 - Facebook Archive
-- Persoanl Archive
+- Personal Archive
 - Google Plus Archive
 
 
