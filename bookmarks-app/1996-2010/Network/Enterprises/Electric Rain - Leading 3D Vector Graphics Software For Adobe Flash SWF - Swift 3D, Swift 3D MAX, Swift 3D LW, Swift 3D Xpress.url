@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.erain.com/
+[InternetShortcut]
+URL=http://www.erain.com/
+IDList=
+IconFile=http://www.erain.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[WLF]
+GUID=07259d15-8835-4818-aced-a8ee7b36d583
+Keyword=
+Tag=

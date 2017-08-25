@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://package.directory.alibaba.com/src=overture?OVRAW=select%20package&OVKEY=package&OVMTC=phrase
+[DOC#784]
+BASEURL=http://www.alibaba.com/
+ORIGURL=http://ad3.alibaba.com/html.ng/Site=English&Column=home&Category=/&Keywords=package&BizNature=&Province=&Position=&Country=&ImageSize=160*300&ImageLocation=right
+[InternetShortcut]
+URL=http://package.directory.alibaba.com/src=overture?OVRAW=select%20package&OVKEY=package&OVMTC=phrase
+Modified=E0B81C49FB8AC40147
+[WLF]
+GUID=b3c55e0b-ba75-48bb-9ad3-557f9145f5e4
+Keyword=
+Tag=

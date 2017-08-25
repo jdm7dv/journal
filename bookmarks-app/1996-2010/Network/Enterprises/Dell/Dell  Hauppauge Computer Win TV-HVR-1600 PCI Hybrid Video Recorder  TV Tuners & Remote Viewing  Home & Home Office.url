@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://accessories.us.dell.com/sna/products/TV_Tuners_Remote_Viewing/productdetail.aspx?c=us&l=en&cs=19&sku=A0942752
+[DOC_BackButtonHistoryFrame]
+BASEURL=http://i.dell.com/images/global/ajax/backbuttonhistory.htm?fid=tabs&cid=tabs_OverviewTab&url=%2Fsna%2Fproductdetail.aspx%3Fc%3Dus%26l%3Den%26cs%3D19%26sku%3DA0942752%26~wsf%3Dtabs&ts=15
+ORIGURL=http://i.dell.com/images/global/ajax/backbuttonhistory.htm?fid=tabs&cid=tabs_OverviewTab&url=%2Fsna%2Fproductdetail.aspx%3Fc%3Dus%26l%3Den%26cs%3D19%26sku%3DA0942752%26~wsf%3Dtabs&ts=15
+[InternetShortcut]
+URL=http://accessories.us.dell.com/sna/products/TV_Tuners_Remote_Viewing/productdetail.aspx?c=us&l=en&cs=19&sku=A0942752#Overview
+IDList=
+IconFile=http://i.dell.com/images/global/branding/dellecomicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[WLF]
+GUID=7a902719-ce97-4301-9da3-1f41a6088e8b
+Keyword=
+Tag=
