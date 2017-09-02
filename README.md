@@ -8,7 +8,7 @@ The Journal features:
 - Twitter Archive
 - Facebook Archive
 - Personal Archive
-- Google Plus Archive
+- Google Plus Archive(too large)
 
 
 Having any issues file a [GitHub Issue](https://github.com/jdm7dv/journal/issues/new).
